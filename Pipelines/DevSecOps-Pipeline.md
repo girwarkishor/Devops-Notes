@@ -86,6 +86,18 @@ pipeline {
 }
 ```
 
+## Screens
+
+![alt-text](https://github.com/girwarkishor/Devops-Notes/blob/main/Pipelines/DevSecOps%20ScreenShots/poll-scm.PNG "Poll SCM")
+![alt-text](https://github.com/girwarkishor/Devops-Notes/blob/main/Pipelines/DevSecOps%20ScreenShots/pipeline.PNG "Pipeline Script")
+![alt-text](https://github.com/girwarkishor/Devops-Notes/blob/main/Pipelines/DevSecOps%20ScreenShots/groovy-script-generator.PNG "Groovy Script Generator")
+![alt-text](https://github.com/girwarkishor/Devops-Notes/blob/main/Pipelines/DevSecOps%20ScreenShots/sonarqube-configuration.PNG "SonarQube Configuration")
+![alt-text](https://github.com/girwarkishor/Devops-Notes/blob/main/Pipelines/DevSecOps%20ScreenShots/sonarqube-global.PNG "SonarQube Global Tool Configuration")
+![alt-text](https://github.com/girwarkishor/Devops-Notes/blob/main/Pipelines/DevSecOps%20ScreenShots/nodejs-globalToolConfiguration.PNG "Node Js Global Tool Configuration")
+![alt-text](https://github.com/girwarkishor/Devops-Notes/blob/main/Pipelines/DevSecOps%20ScreenShots/audit-reports.PNG "Audit Report")
+![alt-text](https://github.com/girwarkishor/Devops-Notes/blob/main/Pipelines/DevSecOps%20ScreenShots/Build-Pipeline.PNG "Build Stage")
+![alt-text](https://github.com/girwarkishor/Devops-Notes/blob/main/Pipelines/DevSecOps%20ScreenShots/slave-node.PNG "Master Slave Node")
+
 ```
 
 ```
